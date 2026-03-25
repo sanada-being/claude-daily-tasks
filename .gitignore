@@ -1,0 +1,5 @@
+# Claude Code ローカル設定（個人の権限設定等）
+.claude/settings.local.json
+
+# Node.js
+node_modules/
